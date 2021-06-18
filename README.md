@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Iurie
 - 🙂 I like .NET
-- 👀 I'm 15 years old
 - 🇲🇩 I live in the Republic of Moldova
 
 <!---
