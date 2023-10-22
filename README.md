@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 - 👋 Hi, I’m Iurie
-- 🙂 I like .NET
+- 🙂 I like .NET, Python and all things Linux.
 - 🇲🇩 I live in the Republic of Moldova
 
 <!---
